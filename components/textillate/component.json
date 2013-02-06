@@ -1,0 +1,9 @@
+{
+  "name": "textillate",
+  "version": "0.0.0",
+  "commit": "0f5a27a328e9145d484dcb6b3011662133d08d6b",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jschr/textillate.git"
+  }
+}

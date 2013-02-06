@@ -1,0 +1,8 @@
+{
+  "name": "Hoge",
+  "version": "1.0.0",
+  "dependencies": {
+    "flight": "~1.0.0",
+    "textillate": "git://github.com/jschr/textillate.git"
+  }
+}
